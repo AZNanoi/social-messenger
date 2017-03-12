@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "415739248285",
+    "firebase_url": "https://social-messenger-9c576.firebaseio.com",
+    "project_id": "social-messenger-9c576",
+    "storage_bucket": "social-messenger-9c576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415739248285:android:fb30d099f3b716b2",
+        "android_client_info": {
+          "package_name": "com.ahzaumarang.socialmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415739248285-omlgsuntbjqilu11l6vc0t2iitpjrdnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1t9zzZLLWedwXUsBaXBYrGWfzq9hdKQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

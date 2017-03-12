@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/phone_call"
+        android:title="Voice Call"
+        android:orderInCategory="79"
+        android:icon="@drawable/phone_white"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="View Profile"
+        android:orderInCategory="79"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        android:orderInCategory="79"
+        app:showAsAction="withText" />
+
+</menu>
